@@ -17,5 +17,8 @@
   <a href="#">
     <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AleColler&show_icons=true&theme=dracula&bg_color=0d1117&hide_border=true"/>
   </a>
+  <a href="#">
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AleColler&langs_count=6&layout=compact&theme=radical&bg_color=0d1117&hide_border=true"/>
+  </a>
 
 </div> 
